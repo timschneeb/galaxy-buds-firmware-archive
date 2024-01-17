@@ -8,7 +8,7 @@ Model numbers:
 * Samsung Galaxy Buds Pro (SM-R190)
 * Samsung Galaxy Buds 2 (SM-R177)
 * Samsung Galaxy Buds 2 Pro (SM-R510)
-* Samsung Galaxy Buds FE (SM-R400)
+* Samsung Galaxy Buds FE (SM-R400N)
 
 
 > [!CAUTION]
