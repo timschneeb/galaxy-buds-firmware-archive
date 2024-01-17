@@ -32,7 +32,7 @@ jobs:
         path: './Firmware'
     
     - name: Run scraper
-      run: dotnet run --project FirmwareProviderCLI/
+      run: dotnet run --project scraper/FirmwareProviderCLI/
 
     - name: Publish summary changes
       uses: stefanzweifel/git-auto-commit-action@v4
