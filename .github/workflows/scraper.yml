@@ -21,9 +21,11 @@ jobs:
       with:
         dotnet-version: 5.0.205
 
-    - uses: actions/checkout@v3
+    - name: Checkout repo
+      uses: actions/checkout@v3
     
-    - uses: actions/checkout@v3
+    - name: Checkout thepbone/FirmwareProviderAPI
+      uses: actions/checkout@v3
       with:
         repository: ThePBone/FirmwareProviderAPI
         submodules: true
@@ -31,8 +33,6 @@ jobs:
     
     - name: Run scraper
       run: |
-        ls -la
-        pwd
         dotnet run --project scraper/FirmwareProviderCLI/
         rm -rf scraper
         rm *.log
