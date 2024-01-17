@@ -35,6 +35,7 @@ jobs:
         pwd
         dotnet run --project scraper/FirmwareProviderCLI/
         rm -rf scraper
+        rm *.log
 
     - name: Publish summary changes
       uses: stefanzweifel/git-auto-commit-action@v4
