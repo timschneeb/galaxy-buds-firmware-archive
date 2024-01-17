@@ -21,17 +21,19 @@ jobs:
       uses: actions/setup-dotnet@v1
       with:
         dotnet-version: 5.0.205
+
+    - uses: actions/checkout@v3
     
     - uses: actions/checkout@v3
       with:
         repository: ThePBone/FirmwareProviderAPI
         submodules: true
         path: './scraper'
-
-    - uses: actions/checkout@v3
     
     - name: Run scraper
       run: |
+        ls -la
+        pwd
         dotnet run --project scraper/FirmwareProviderCLI/
         rm -rf scraper
 
