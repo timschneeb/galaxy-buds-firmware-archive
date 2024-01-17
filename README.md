@@ -7,12 +7,14 @@ An automated archive of firmware images for the Galaxy Buds family. Flashable wi
 >
 > For instance, flashing Galaxy Buds 2 Pro firmware onto the Galaxy Buds Pro will permanently brick your earbuds.
 
-- [SM-R510](#sm-galaxy-buds2-pro-r510)
-- [SM-R177](#sm-galaxy-buds2-r177)
-- [SM-R190](#sm-galaxy-buds-pro-r190)
-- [SM-R180](#sm-galaxy-buds-live-r180)
-- [SM-R175](#sm-galaxy-buds+-r175)
-- [SM-R170](#sm-galaxy-buds-r170)
+## Table of contents
+
+- [SM-R510](#galaxy-buds2-pro-sm-r510)
+- [SM-R177](#galaxy-buds2-sm-r177)
+- [SM-R190](#galaxy-buds-pro-sm-r190)
+- [SM-R180](#galaxy-buds-live-sm-r180)
+- [SM-R175](#galaxy-buds+-sm-r175)
+- [SM-R170](#galaxy-buds-sm-r170)
 
 ## Galaxy Buds2 Pro (SM-R510)
 
