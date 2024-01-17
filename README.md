@@ -13,7 +13,7 @@ An automated archive of firmware images for the Galaxy Buds family. Flashable wi
 - [SM-R177](#galaxy-buds2-sm-r177)
 - [SM-R180](#galaxy-buds-live-sm-r180)
 - [SM-R190](#galaxy-buds-pro-sm-r190)
-- [SM-R175](#galaxy-buds+-sm-r175)
+- [SM-R175](#galaxy-buds-sm-r175)
 - [SM-R170](#galaxy-buds-sm-r170)
 
 ## Galaxy Buds2 Pro (SM-R510)
