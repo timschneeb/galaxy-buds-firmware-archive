@@ -1,0 +1,38 @@
+[WRN] [FWSC] CheckForUpdateLegacy: Exception: System.Net.WebException: An exception occurred during a WebClient request.
+ ---> System.IO.DirectoryNotFoundException: Could not find a part of the path '/home/runner/work/galaxy-buds-firmware-archive/galaxy-buds-firmware-archive/Firmware/FOTA_R170XXU0ATF2.bin'.
+   at Interop.ThrowExceptionForIoErrno(ErrorInfo errorInfo, String path, Boolean isDirectory, Func`2 errorRewriter)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String path, OpenFlags flags, Int32 mode)
+   at System.IO.FileStream.OpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   --- End of inner exception stack trace ---
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at FirmwareProviderAPI.FirmwareScraper.CheckForUpdateLegacy(String device) in /home/runner/work/galaxy-buds-firmware-archive/galaxy-buds-firmware-archive/scraper/FirmwareProviderAPI/FirmwareScraper.cs:line 124
+[WRN] [FWSC] CheckForUpdateLegacy: Exception: System.Net.WebException: An exception occurred during a WebClient request.
+ ---> System.IO.DirectoryNotFoundException: Could not find a part of the path '/home/runner/work/galaxy-buds-firmware-archive/galaxy-buds-firmware-archive/Firmware/FOTA_R175XXU0AUK1.bin'.
+   at Interop.ThrowExceptionForIoErrno(ErrorInfo errorInfo, String path, Boolean isDirectory, Func`2 errorRewriter)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String path, OpenFlags flags, Int32 mode)
+   at System.IO.FileStream.OpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   --- End of inner exception stack trace ---
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at FirmwareProviderAPI.FirmwareScraper.CheckForUpdateLegacy(String device) in /home/runner/work/galaxy-buds-firmware-archive/galaxy-buds-firmware-archive/scraper/FirmwareProviderAPI/FirmwareScraper.cs:line 124
+[ERR] [TMSG] Token file missing. Telegram integration disabled: System.IO.FileNotFoundException: Could not find file '/home/runner/work/galaxy-buds-firmware-archive/galaxy-buds-firmware-archive/telegram-token.conf'.
+File name: '/home/runner/work/galaxy-buds-firmware-archive/galaxy-buds-firmware-archive/telegram-token.conf'
+   at Interop.ThrowExceptionForIoErrno(ErrorInfo errorInfo, String path, Boolean isDirectory, Func`2 errorRewriter)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String path, OpenFlags flags, Int32 mode)
+   at System.IO.FileStream.OpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding)
+   at System.IO.File.ReadAllText(String path)
+   at FirmwareProviderAPI.Messaging.Telegram..ctor() in /home/runner/work/galaxy-buds-firmware-archive/galaxy-buds-firmware-archive/scraper/FirmwareProviderAPI/Messaging/Telegram.cs:line 23
+[WRN] [TMSG] Telegram integration disabled
+[WRN] [TMSG] Telegram integration disabled
+[WRN] [TMSG] Telegram integration disabled
+[WRN] [TMSG] Telegram integration disabled
+[ERR] [FUMO] [SM-R400N] SvcState = 220: No suitable firmware version found. Please check the supplied parameters.
