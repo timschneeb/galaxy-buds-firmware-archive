@@ -29,8 +29,6 @@ jobs:
         path: './scraper'
 
     - uses: actions/checkout@v3
-      with:
-        path: './Firmware'
     
     - name: Run scraper
       run: dotnet run --project scraper/FirmwareProviderCLI/
@@ -39,6 +37,6 @@ jobs:
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: Add new firmware binaries
-        repository: Firmware
+        path: Firmware/
 
         
