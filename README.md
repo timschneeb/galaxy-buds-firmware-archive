@@ -9,7 +9,7 @@ An automated archive of firmware images for the Galaxy Buds family. Flashable wi
 
 ## Table of contents
 
-- [SM-R400N](#unknown-model-sm-r400n)
+- [SM-R400N](#galaxy-buds-fe-sm-r400n)
 - [SM-R510](#galaxy-buds2-pro-sm-r510)
 - [SM-R177](#galaxy-buds2-sm-r177)
 - [SM-R180](#galaxy-buds-live-sm-r180)
@@ -17,7 +17,7 @@ An automated archive of firmware images for the Galaxy Buds family. Flashable wi
 - [SM-R175](#galaxy-buds-sm-r175)
 - [SM-R170](#galaxy-buds-sm-r170)
 
-## Unknown model (SM-R400N)
+## Galaxy Buds FE (SM-R400N)
 
 | Build | Year | Month | Revision |
 | ----- | ---- | ----- | -------- |
