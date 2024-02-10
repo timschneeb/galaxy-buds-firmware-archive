@@ -9,13 +9,20 @@ An automated archive of firmware images for the Galaxy Buds family. Flashable wi
 
 ## Table of contents
 
-- [SM-R177](#galaxy-buds2-sm-r177)
 - [SM-R400N](#galaxy-buds-fe-sm-r400n)
+- [SM-R177](#galaxy-buds2-sm-r177)
 - [SM-R510](#galaxy-buds2-pro-sm-r510)
 - [SM-R180](#galaxy-buds-live-sm-r180)
 - [SM-R190](#galaxy-buds-pro-sm-r190)
 - [SM-R175](#galaxy-buds-sm-r175)
 - [SM-R170](#galaxy-buds-sm-r170)
+
+## Galaxy Buds FE (SM-R400N)
+
+| Build | Year | Month | Revision |
+| ----- | ---- | ----- | -------- |
+| [`R400NXXU0AXB1`](https://github.com/ThePBone/galaxy-buds-firmware-archive/raw/main/R400N/FOTA_R400NXXU0AXB1.bin) | 2024 | February | 1 |
+| [`R400NXXU0AXA3`](https://github.com/ThePBone/galaxy-buds-firmware-archive/raw/main/R400N/FOTA_R400NXXU0AXA3.bin) | 2024 | January | 3 |
 
 ## Galaxy Buds2 (SM-R177)
 
@@ -38,12 +45,6 @@ An automated archive of firmware images for the Galaxy Buds family. Flashable wi
 | [`R177XXU0AUI5`](https://github.com/ThePBone/galaxy-buds-firmware-archive/raw/main/R177/FOTA_R177XXU0AUI5.bin) | 2021 | September | 5 |
 | [`R177XXU0AUI2`](https://github.com/ThePBone/galaxy-buds-firmware-archive/raw/main/R177/FOTA_R177XXU0AUI2.bin) | 2021 | September | 2 |
 | [`R177XXU0AUH2`](https://github.com/ThePBone/galaxy-buds-firmware-archive/raw/main/R177/FOTA_R177XXU0AUH2.bin) | 2021 | August | 2 |
-
-## Galaxy Buds FE (SM-R400N)
-
-| Build | Year | Month | Revision |
-| ----- | ---- | ----- | -------- |
-| [`R400NXXU0AXA3`](https://github.com/ThePBone/galaxy-buds-firmware-archive/raw/main/R400N/FOTA_R400NXXU0AXA3.bin) | 2024 | January | 3 |
 
 ## Galaxy Buds2 Pro (SM-R510)
 
