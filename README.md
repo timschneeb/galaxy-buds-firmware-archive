@@ -9,13 +9,29 @@ An automated archive of firmware images for the Galaxy Buds family. Flashable wi
 
 ## Table of contents
 
+- [SM-R510](#galaxy-buds2-pro-sm-r510)
 - [SM-R400N](#galaxy-buds-fe-sm-r400n)
 - [SM-R177](#galaxy-buds2-sm-r177)
-- [SM-R510](#galaxy-buds2-pro-sm-r510)
 - [SM-R180](#galaxy-buds-live-sm-r180)
 - [SM-R190](#galaxy-buds-pro-sm-r190)
 - [SM-R175](#galaxy-buds-sm-r175)
 - [SM-R170](#galaxy-buds-sm-r170)
+
+## Galaxy Buds2 Pro (SM-R510)
+
+| Build | Year | Month | Revision |
+| ----- | ---- | ----- | -------- |
+| [`R510XXU0AXB4`](https://github.com/ThePBone/galaxy-buds-firmware-archive/raw/main/R510/FOTA_R510XXU0AXB4.bin) | 2024 | February | 4 |
+| [`R510XXU0AXA2`](https://github.com/ThePBone/galaxy-buds-firmware-archive/raw/main/R510/FOTA_R510XXU0AXA2.bin) | 2024 | January | 2 |
+| [`R510XXU0AWI2`](https://github.com/ThePBone/galaxy-buds-firmware-archive/raw/main/R510/FOTA_R510XXU0AWI2.bin) | 2023 | September | 2 |
+| [`R510XXU0AWF4`](https://github.com/ThePBone/galaxy-buds-firmware-archive/raw/main/R510/FOTA_R510XXU0AWF4.bin) | 2023 | June | 4 |
+| [`R510XXU0AWF3`](https://github.com/ThePBone/galaxy-buds-firmware-archive/raw/main/R510/FOTA_R510XXU0AWF3.bin) | 2023 | June | 3 |
+| [`R510XXU0AWB1`](https://github.com/ThePBone/galaxy-buds-firmware-archive/raw/main/R510/FOTA_R510XXU0AWB1.bin) | 2023 | February | 1 |
+| [`R510XXU0AWA5`](https://github.com/ThePBone/galaxy-buds-firmware-archive/raw/main/R510/FOTA_R510XXU0AWA5.bin) | 2023 | January | 5 |
+| [`R510XXU0AWA4`](https://github.com/ThePBone/galaxy-buds-firmware-archive/raw/main/R510/FOTA_R510XXU0AWA4.bin) | 2023 | January | 4 |
+| [`R510XXU0AWA2`](https://github.com/ThePBone/galaxy-buds-firmware-archive/raw/main/R510/FOTA_R510XXU0AWA2.bin) | 2023 | January | 2 |
+| [`R510XXU0AVL3`](https://github.com/ThePBone/galaxy-buds-firmware-archive/raw/main/R510/FOTA_R510XXU0AVL3.bin) | 2022 | December | 3 |
+| [`R510XXU0AVK3`](https://github.com/ThePBone/galaxy-buds-firmware-archive/raw/main/R510/FOTA_R510XXU0AVK3.bin) | 2022 | November | 3 |
 
 ## Galaxy Buds FE (SM-R400N)
 
@@ -28,6 +44,7 @@ An automated archive of firmware images for the Galaxy Buds family. Flashable wi
 
 | Build | Year | Month | Revision |
 | ----- | ---- | ----- | -------- |
+| [`R177XXU0AXB1`](https://github.com/ThePBone/galaxy-buds-firmware-archive/raw/main/R177/FOTA_R177XXU0AXB1.bin) | 2024 | February | 1 |
 | [`R177XXU0AXA4`](https://github.com/ThePBone/galaxy-buds-firmware-archive/raw/main/R177/FOTA_R177XXU0AXA4.bin) | 2024 | January | 4 |
 | [`R177XXU0AWB1`](https://github.com/ThePBone/galaxy-buds-firmware-archive/raw/main/R177/FOTA_R177XXU0AWB1.bin) | 2023 | February | 1 |
 | [`R177XXU0AWA3`](https://github.com/ThePBone/galaxy-buds-firmware-archive/raw/main/R177/FOTA_R177XXU0AWA3.bin) | 2023 | January | 3 |
@@ -45,21 +62,6 @@ An automated archive of firmware images for the Galaxy Buds family. Flashable wi
 | [`R177XXU0AUI5`](https://github.com/ThePBone/galaxy-buds-firmware-archive/raw/main/R177/FOTA_R177XXU0AUI5.bin) | 2021 | September | 5 |
 | [`R177XXU0AUI2`](https://github.com/ThePBone/galaxy-buds-firmware-archive/raw/main/R177/FOTA_R177XXU0AUI2.bin) | 2021 | September | 2 |
 | [`R177XXU0AUH2`](https://github.com/ThePBone/galaxy-buds-firmware-archive/raw/main/R177/FOTA_R177XXU0AUH2.bin) | 2021 | August | 2 |
-
-## Galaxy Buds2 Pro (SM-R510)
-
-| Build | Year | Month | Revision |
-| ----- | ---- | ----- | -------- |
-| [`R510XXU0AXA2`](https://github.com/ThePBone/galaxy-buds-firmware-archive/raw/main/R510/FOTA_R510XXU0AXA2.bin) | 2024 | January | 2 |
-| [`R510XXU0AWI2`](https://github.com/ThePBone/galaxy-buds-firmware-archive/raw/main/R510/FOTA_R510XXU0AWI2.bin) | 2023 | September | 2 |
-| [`R510XXU0AWF4`](https://github.com/ThePBone/galaxy-buds-firmware-archive/raw/main/R510/FOTA_R510XXU0AWF4.bin) | 2023 | June | 4 |
-| [`R510XXU0AWF3`](https://github.com/ThePBone/galaxy-buds-firmware-archive/raw/main/R510/FOTA_R510XXU0AWF3.bin) | 2023 | June | 3 |
-| [`R510XXU0AWB1`](https://github.com/ThePBone/galaxy-buds-firmware-archive/raw/main/R510/FOTA_R510XXU0AWB1.bin) | 2023 | February | 1 |
-| [`R510XXU0AWA5`](https://github.com/ThePBone/galaxy-buds-firmware-archive/raw/main/R510/FOTA_R510XXU0AWA5.bin) | 2023 | January | 5 |
-| [`R510XXU0AWA4`](https://github.com/ThePBone/galaxy-buds-firmware-archive/raw/main/R510/FOTA_R510XXU0AWA4.bin) | 2023 | January | 4 |
-| [`R510XXU0AWA2`](https://github.com/ThePBone/galaxy-buds-firmware-archive/raw/main/R510/FOTA_R510XXU0AWA2.bin) | 2023 | January | 2 |
-| [`R510XXU0AVL3`](https://github.com/ThePBone/galaxy-buds-firmware-archive/raw/main/R510/FOTA_R510XXU0AVL3.bin) | 2022 | December | 3 |
-| [`R510XXU0AVK3`](https://github.com/ThePBone/galaxy-buds-firmware-archive/raw/main/R510/FOTA_R510XXU0AVK3.bin) | 2022 | November | 3 |
 
 ## Galaxy Buds Live (SM-R180)
 
