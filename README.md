@@ -38,6 +38,7 @@ An automated archive of firmware images for the Galaxy Buds family. Flashable wi
 
 | Build | Year | Month | Revision |
 | ----- | ---- | ----- | -------- |
+| [`R400NXXU0AXC1`](https://github.com/ThePBone/galaxy-buds-firmware-archive/raw/main/R400N/FOTA_R400NXXU0AXC1.bin) | 2024 | March | 1 |
 | [`R400NXXU0AXB1`](https://github.com/ThePBone/galaxy-buds-firmware-archive/raw/main/R400N/FOTA_R400NXXU0AXB1.bin) | 2024 | February | 1 |
 | [`R400NXXU0AXA3`](https://github.com/ThePBone/galaxy-buds-firmware-archive/raw/main/R400N/FOTA_R400NXXU0AXA3.bin) | 2024 | January | 3 |
 
