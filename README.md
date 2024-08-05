@@ -9,6 +9,8 @@ An automated archive of firmware images for the Galaxy Buds family. Flashable wi
 
 ## Table of contents
 
+- [SM-R630](#unknown-model-sm-r630)
+- [SM-R530](#unknown-model-sm-r530)
 - [SM-R510](#galaxy-buds2-pro-sm-r510)
 - [SM-R400N](#galaxy-buds-fe-sm-r400n)
 - [SM-R177](#galaxy-buds2-sm-r177)
@@ -16,6 +18,18 @@ An automated archive of firmware images for the Galaxy Buds family. Flashable wi
 - [SM-R190](#galaxy-buds-pro-sm-r190)
 - [SM-R175](#galaxy-buds-sm-r175)
 - [SM-R170](#galaxy-buds-sm-r170)
+
+## Unknown model (SM-R630)
+
+| Build | Year | Month | Revision |
+| ----- | ---- | ----- | -------- |
+| [`R630XXU0AXG5`](https://github.com/ThePBone/galaxy-buds-firmware-archive/raw/main/R630/FOTA_R630XXU0AXG5.bin) | 2024 | July | 5 |
+
+## Unknown model (SM-R530)
+
+| Build | Year | Month | Revision |
+| ----- | ---- | ----- | -------- |
+| [`R530XXU0AXG4`](https://github.com/ThePBone/galaxy-buds-firmware-archive/raw/main/R530/FOTA_R530XXU0AXG4.bin) | 2024 | July | 4 |
 
 ## Galaxy Buds2 Pro (SM-R510)
 
