@@ -35,6 +35,7 @@ jobs:
     - name: Run scraper
       env:
         OPENSSL_CONF: "scraper/SamsungFumoClient/openssl.custom"
+      shell: bash
       run: | 
         dotnet run --project scraper/FirmwareProviderCLI/
 
