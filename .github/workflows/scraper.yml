@@ -3,7 +3,7 @@ name: Run scraper
 on:
   push:
     branches:
-      - master
+      - main
   workflow_dispatch:
   schedule:
     - cron: '0 * * * *'
