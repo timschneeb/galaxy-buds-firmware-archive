@@ -33,10 +33,10 @@ jobs:
         path: './scraper'
     
     - name: Run scraper
+      env:
+        OPENSSL_CONF: "scraper/SamsungFumoClient/openssl.custom"
       run: | 
-        export OPENSSL_CONF=$(pwd)/scraper/SamsungFumoClient/openssl.custom
         dotnet run --project scraper/FirmwareProviderCLI/
-        OPENSSL_CONF=$(pwd)/scraper/SamsungFumoClient/openssl.custom ./scraper/FirmwareProviderCLI/bin/Debug/net8.0/FirmwareProviderCLI
 
     - uses: actions/upload-artifact@v4
       with:
