@@ -35,10 +35,10 @@ jobs:
         rm -rf scraper
         rm *.log
 
-   - uses: actions/upload-artifact@v4
-     with:
-     name: artifact
-     path: .
+    - uses: actions/upload-artifact@v4
+      with:
+        name: artifact
+        path: .
 
     - name: Publish summary changes
       uses: stefanzweifel/git-auto-commit-action@v4
