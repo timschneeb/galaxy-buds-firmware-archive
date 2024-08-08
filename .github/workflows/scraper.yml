@@ -31,7 +31,7 @@ jobs:
     
     - name: Run scraper
       run: |
-        dotnet run --project scraper/FirmwareProviderCLI/
+        OPENSSL_CONF=openssl.custom dotnet run --project scraper/FirmwareProviderCLI/
         rm -rf scraper
         rm *.log
 
