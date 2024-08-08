@@ -31,7 +31,7 @@ jobs:
     
     - name: Run scraper
       run: |
-        OPENSSL_CONF=scraper/openssl.custom dotnet run --project scraper/FirmwareProviderCLI/
+        OPENSSL_CONF=scraper/SamsungFumoClient/openssl.custom dotnet run --project scraper/FirmwareProviderCLI/
         rm -rf scraper
         rm *.log
 
