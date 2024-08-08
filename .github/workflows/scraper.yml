@@ -30,15 +30,17 @@ jobs:
         path: './scraper'
     
     - name: Run scraper
-      run: |
-        OPENSSL_CONF=scraper/SamsungFumoClient/openssl.custom dotnet run --project scraper/FirmwareProviderCLI/
-        rm -rf scraper
-        rm *.log
+      run: OPENSSL_CONF=scraper/SamsungFumoClient/openssl.custom dotnet run --project scraper/FirmwareProviderCLI/
 
     - uses: actions/upload-artifact@v4
       with:
         name: artifact
         path: .
+
+    - name: Cleanup
+      run: |
+        rm -rf scraper
+        rm *.log
 
     - name: Publish summary changes
       uses: stefanzweifel/git-auto-commit-action@v4
