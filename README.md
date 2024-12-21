@@ -23,6 +23,7 @@ An automated archive of firmware images for the Galaxy Buds family. Flashable wi
 
 | Build | Year | Month | Revision |
 | ----- | ---- | ----- | -------- |
+| [`R530XXU0AXL1`](https://github.com/ThePBone/galaxy-buds-firmware-archive/raw/main/R530/FOTA_R530XXU0AXL1.bin) | 2024 | December | 1 |
 | [`R530XXU0AXJ1`](https://github.com/ThePBone/galaxy-buds-firmware-archive/raw/main/R530/FOTA_R530XXU0AXJ1.bin) | 2024 | October | 1 |
 | [`R530XXU0AXG4`](https://github.com/ThePBone/galaxy-buds-firmware-archive/raw/main/R530/FOTA_R530XXU0AXG4.bin) | 2024 | July | 4 |
 
