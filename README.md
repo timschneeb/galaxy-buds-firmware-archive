@@ -9,8 +9,8 @@ An automated archive of firmware images for the Galaxy Buds family. Flashable wi
 
 ## Table of contents
 
-- [SM-R630](#galaxy-buds3-pro-sm-r630)
 - [SM-R530](#galaxy-buds3-sm-r530)
+- [SM-R630](#galaxy-buds3-pro-sm-r630)
 - [SM-R177](#galaxy-buds2-sm-r177)
 - [SM-R510](#galaxy-buds2-pro-sm-r510)
 - [SM-R400N](#galaxy-buds-fe-sm-r400n)
@@ -18,6 +18,18 @@ An automated archive of firmware images for the Galaxy Buds family. Flashable wi
 - [SM-R190](#galaxy-buds-pro-sm-r190)
 - [SM-R175](#galaxy-buds-sm-r175)
 - [SM-R170](#galaxy-buds-sm-r170)
+
+## Galaxy Buds3 (SM-R530)
+
+| Build | Year | Month | Revision |
+| ----- | ---- | ----- | -------- |
+| [`R530XXU0AYJ1`](https://github.com/timschneeb/galaxy-buds-firmware-archive/raw/main/R530/FOTA_R530XXU0AYJ1.bin) | 2025 | October | 1 |
+| [`R530XXU0AYG2`](https://github.com/timschneeb/galaxy-buds-firmware-archive/raw/main/R530/FOTA_R530XXU0AYG2.bin) | 2025 | July | 2 |
+| [`R530XXU0AYB3`](https://github.com/timschneeb/galaxy-buds-firmware-archive/raw/main/R530/FOTA_R530XXU0AYB3.bin) | 2025 | February | 3 |
+| [`R530XXU0AYB2`](https://github.com/timschneeb/galaxy-buds-firmware-archive/raw/main/R530/FOTA_R530XXU0AYB2.bin) | 2025 | February | 2 |
+| [`R530XXU0AXL1`](https://github.com/timschneeb/galaxy-buds-firmware-archive/raw/main/R530/FOTA_R530XXU0AXL1.bin) | 2024 | December | 1 |
+| [`R530XXU0AXJ1`](https://github.com/timschneeb/galaxy-buds-firmware-archive/raw/main/R530/FOTA_R530XXU0AXJ1.bin) | 2024 | October | 1 |
+| [`R530XXU0AXG4`](https://github.com/timschneeb/galaxy-buds-firmware-archive/raw/main/R530/FOTA_R530XXU0AXG4.bin) | 2024 | July | 4 |
 
 ## Galaxy Buds3 Pro (SM-R630)
 
@@ -27,17 +39,6 @@ An automated archive of firmware images for the Galaxy Buds family. Flashable wi
 | [`R630XXU0AYB3`](https://github.com/timschneeb/galaxy-buds-firmware-archive/raw/main/R630/FOTA_R630XXU0AYB3.bin) | 2025 | February | 3 |
 | [`R630XXU0AXJ1`](https://github.com/timschneeb/galaxy-buds-firmware-archive/raw/main/R630/FOTA_R630XXU0AXJ1.bin) | 2024 | October | 1 |
 | [`R630XXU0AXG5`](https://github.com/timschneeb/galaxy-buds-firmware-archive/raw/main/R630/FOTA_R630XXU0AXG5.bin) | 2024 | July | 5 |
-
-## Galaxy Buds3 (SM-R530)
-
-| Build | Year | Month | Revision |
-| ----- | ---- | ----- | -------- |
-| [`R530XXU0AYG2`](https://github.com/timschneeb/galaxy-buds-firmware-archive/raw/main/R530/FOTA_R530XXU0AYG2.bin) | 2025 | July | 2 |
-| [`R530XXU0AYB3`](https://github.com/timschneeb/galaxy-buds-firmware-archive/raw/main/R530/FOTA_R530XXU0AYB3.bin) | 2025 | February | 3 |
-| [`R530XXU0AYB2`](https://github.com/timschneeb/galaxy-buds-firmware-archive/raw/main/R530/FOTA_R530XXU0AYB2.bin) | 2025 | February | 2 |
-| [`R530XXU0AXL1`](https://github.com/timschneeb/galaxy-buds-firmware-archive/raw/main/R530/FOTA_R530XXU0AXL1.bin) | 2024 | December | 1 |
-| [`R530XXU0AXJ1`](https://github.com/timschneeb/galaxy-buds-firmware-archive/raw/main/R530/FOTA_R530XXU0AXJ1.bin) | 2024 | October | 1 |
-| [`R530XXU0AXG4`](https://github.com/timschneeb/galaxy-buds-firmware-archive/raw/main/R530/FOTA_R530XXU0AXG4.bin) | 2024 | July | 4 |
 
 ## Galaxy Buds2 (SM-R177)
 
