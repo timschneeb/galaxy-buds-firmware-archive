@@ -9,6 +9,7 @@ An automated archive of firmware images for the Galaxy Buds family. Flashable wi
 
 ## Table of contents
 
+- [SM-R420](#galaxy-buds3-fe-sm-r420)
 - [SM-R530](#galaxy-buds3-sm-r530)
 - [SM-R630](#galaxy-buds3-pro-sm-r630)
 - [SM-R400N](#galaxy-buds-fe-sm-r400n)
@@ -18,6 +19,12 @@ An automated archive of firmware images for the Galaxy Buds family. Flashable wi
 - [SM-R190](#galaxy-buds-pro-sm-r190)
 - [SM-R175](#galaxy-buds-sm-r175)
 - [SM-R170](#galaxy-buds-sm-r170)
+
+## Galaxy Buds3 FE (SM-R420)
+
+| Build | Year | Month | Revision |
+| ----- | ---- | ----- | -------- |
+| [`R420XXU0AZC1`](https://github.com/timschneeb/galaxy-buds-firmware-archive/raw/main/R420/FOTA_R420XXU0AZC1.bin) | 2026 | March | 1 |
 
 ## Galaxy Buds3 (SM-R530)
 
