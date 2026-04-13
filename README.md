@@ -24,6 +24,7 @@ An automated archive of firmware images for the Galaxy Buds family. Flashable wi
 
 | Build | Year | Month | Revision |
 | ----- | ---- | ----- | -------- |
+| [`R510XXU0AZD1`](https://github.com/timschneeb/galaxy-buds-firmware-archive/raw/main/R510/FOTA_R510XXU0AZD1.bin) | 2026 | April | 1 |
 | [`R510XXU0AZC4`](https://github.com/timschneeb/galaxy-buds-firmware-archive/raw/main/R510/FOTA_R510XXU0AZC4.bin) | 2026 | March | 4 |
 | [`R510XXU0AYF1`](https://github.com/timschneeb/galaxy-buds-firmware-archive/raw/main/R510/FOTA_R510XXU0AYF1.bin) | 2025 | June | 1 |
 | [`R510XXU0AYB1`](https://github.com/timschneeb/galaxy-buds-firmware-archive/raw/main/R510/FOTA_R510XXU0AYB1.bin) | 2025 | February | 1 |
