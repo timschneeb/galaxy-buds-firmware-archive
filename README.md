@@ -9,6 +9,7 @@ An automated archive of firmware images for the Galaxy Buds family. Flashable wi
 
 ## Table of contents
 
+- [SM-R640](#galaxy-buds4-pro-sm-r640)
 - [SM-R630](#galaxy-buds3-pro-sm-r630)
 - [SM-R510](#galaxy-buds2-pro-sm-r510)
 - [SM-R530](#galaxy-buds3-sm-r530)
@@ -19,6 +20,12 @@ An automated archive of firmware images for the Galaxy Buds family. Flashable wi
 - [SM-R190](#galaxy-buds-pro-sm-r190)
 - [SM-R175](#galaxy-buds-sm-r175)
 - [SM-R170](#galaxy-buds-sm-r170)
+
+## Galaxy Buds4 Pro (SM-R640)
+
+| Build | Year | Month | Revision |
+| ----- | ---- | ----- | -------- |
+| [`R640XXU0AZD2`](https://github.com/timschneeb/galaxy-buds-firmware-archive/raw/main/R640/FOTA_R640XXU0AZD2.bin) | 2026 | April | 2 |
 
 ## Galaxy Buds3 Pro (SM-R630)
 
