@@ -9,8 +9,8 @@ An automated archive of firmware images for the Galaxy Buds family. Flashable wi
 
 ## Table of contents
 
-- [SM-R640](#galaxy-buds4-pro-sm-r640)
 - [SM-R630](#galaxy-buds3-pro-sm-r630)
+- [SM-R640](#galaxy-buds4-pro-sm-r640)
 - [SM-R510](#galaxy-buds2-pro-sm-r510)
 - [SM-R530](#galaxy-buds3-sm-r530)
 - [SM-R420](#galaxy-buds3-fe-sm-r420)
@@ -21,16 +21,11 @@ An automated archive of firmware images for the Galaxy Buds family. Flashable wi
 - [SM-R175](#galaxy-buds-sm-r175)
 - [SM-R170](#galaxy-buds-sm-r170)
 
-## Galaxy Buds4 Pro (SM-R640)
-
-| Build | Year | Month | Revision |
-| ----- | ---- | ----- | -------- |
-| [`R640XXU0AZD2`](https://github.com/timschneeb/galaxy-buds-firmware-archive/raw/main/R640/FOTA_R640XXU0AZD2.bin) | 2026 | April | 2 |
-
 ## Galaxy Buds3 Pro (SM-R630)
 
 | Build | Year | Month | Revision |
 | ----- | ---- | ----- | -------- |
+| [`R630XXU0AZD2`](https://github.com/timschneeb/galaxy-buds-firmware-archive/raw/main/R630/FOTA_R630XXU0AZD2.bin) | 2026 | April | 2 |
 | [`R630XXU0AZD1`](https://github.com/timschneeb/galaxy-buds-firmware-archive/raw/main/R630/FOTA_R630XXU0AZD1.bin) | 2026 | April | 1 |
 | [`R630XXU0AZC3`](https://github.com/timschneeb/galaxy-buds-firmware-archive/raw/main/R630/FOTA_R630XXU0AZC3.bin) | 2026 | March | 3 |
 | [`R630XXU0AYJ1`](https://github.com/timschneeb/galaxy-buds-firmware-archive/raw/main/R630/FOTA_R630XXU0AYJ1.bin) | 2025 | October | 1 |
@@ -38,6 +33,12 @@ An automated archive of firmware images for the Galaxy Buds family. Flashable wi
 | [`R630XXU0AYB3`](https://github.com/timschneeb/galaxy-buds-firmware-archive/raw/main/R630/FOTA_R630XXU0AYB3.bin) | 2025 | February | 3 |
 | [`R630XXU0AXJ1`](https://github.com/timschneeb/galaxy-buds-firmware-archive/raw/main/R630/FOTA_R630XXU0AXJ1.bin) | 2024 | October | 1 |
 | [`R630XXU0AXG5`](https://github.com/timschneeb/galaxy-buds-firmware-archive/raw/main/R630/FOTA_R630XXU0AXG5.bin) | 2024 | July | 5 |
+
+## Galaxy Buds4 Pro (SM-R640)
+
+| Build | Year | Month | Revision |
+| ----- | ---- | ----- | -------- |
+| [`R640XXU0AZD2`](https://github.com/timschneeb/galaxy-buds-firmware-archive/raw/main/R640/FOTA_R640XXU0AZD2.bin) | 2026 | April | 2 |
 
 ## Galaxy Buds2 Pro (SM-R510)
 
