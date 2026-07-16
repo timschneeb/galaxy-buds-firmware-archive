@@ -10,12 +10,12 @@ An automated archive of firmware images for the Galaxy Buds family. Flashable wi
 ## Table of contents
 
 - [SM-R630](#galaxy-buds3-pro-sm-r630)
-- [SM-R640](#galaxy-buds4-pro-sm-r640)
 - [SM-R530](#galaxy-buds3-sm-r530)
+- [SM-R640](#galaxy-buds4-pro-sm-r640)
 - [SM-R510](#galaxy-buds2-pro-sm-r510)
 - [SM-R420](#galaxy-buds3-fe-sm-r420)
-- [SM-R400N](#galaxy-buds-fe-sm-r400n)
 - [SM-R177](#galaxy-buds2-sm-r177)
+- [SM-R400N](#galaxy-buds-fe-sm-r400n)
 - [SM-R180](#galaxy-buds-live-sm-r180)
 - [SM-R190](#galaxy-buds-pro-sm-r190)
 - [SM-R175](#galaxy-buds-sm-r175)
@@ -35,12 +35,6 @@ An automated archive of firmware images for the Galaxy Buds family. Flashable wi
 | [`R630XXU0AXJ1`](https://github.com/timschneeb/galaxy-buds-firmware-archive/raw/main/R630/FOTA_R630XXU0AXJ1.bin) | 2024 | October | 1 |
 | [`R630XXU0AXG5`](https://github.com/timschneeb/galaxy-buds-firmware-archive/raw/main/R630/FOTA_R630XXU0AXG5.bin) | 2024 | July | 5 |
 
-## Galaxy Buds4 Pro (SM-R640)
-
-| Build | Year | Month | Revision |
-| ----- | ---- | ----- | -------- |
-| [`R640XXU0AZD2`](https://github.com/timschneeb/galaxy-buds-firmware-archive/raw/main/R640/FOTA_R640XXU0AZD2.bin) | 2026 | April | 2 |
-
 ## Galaxy Buds3 (SM-R530)
 
 | Build | Year | Month | Revision |
@@ -55,6 +49,12 @@ An automated archive of firmware images for the Galaxy Buds family. Flashable wi
 | [`R530XXU0AXL1`](https://github.com/timschneeb/galaxy-buds-firmware-archive/raw/main/R530/FOTA_R530XXU0AXL1.bin) | 2024 | December | 1 |
 | [`R530XXU0AXJ1`](https://github.com/timschneeb/galaxy-buds-firmware-archive/raw/main/R530/FOTA_R530XXU0AXJ1.bin) | 2024 | October | 1 |
 | [`R530XXU0AXG4`](https://github.com/timschneeb/galaxy-buds-firmware-archive/raw/main/R530/FOTA_R530XXU0AXG4.bin) | 2024 | July | 4 |
+
+## Galaxy Buds4 Pro (SM-R640)
+
+| Build | Year | Month | Revision |
+| ----- | ---- | ----- | -------- |
+| [`R640XXU0AZD2`](https://github.com/timschneeb/galaxy-buds-firmware-archive/raw/main/R640/FOTA_R640XXU0AZD2.bin) | 2026 | April | 2 |
 
 ## Galaxy Buds2 Pro (SM-R510)
 
@@ -83,16 +83,6 @@ An automated archive of firmware images for the Galaxy Buds family. Flashable wi
 | ----- | ---- | ----- | -------- |
 | [`R420XXU0AZC1`](https://github.com/timschneeb/galaxy-buds-firmware-archive/raw/main/R420/FOTA_R420XXU0AZC1.bin) | 2026 | March | 1 |
 
-## Galaxy Buds FE (SM-R400N)
-
-| Build | Year | Month | Revision |
-| ----- | ---- | ----- | -------- |
-| [`R400NXXU0AYF1`](https://github.com/timschneeb/galaxy-buds-firmware-archive/raw/main/R400N/FOTA_R400NXXU0AYF1.bin) | 2025 | June | 1 |
-| [`R400NXXU0AYA1`](https://github.com/timschneeb/galaxy-buds-firmware-archive/raw/main/R400N/FOTA_R400NXXU0AYA1.bin) | 2025 | January | 1 |
-| [`R400NXXU0AXC1`](https://github.com/timschneeb/galaxy-buds-firmware-archive/raw/main/R400N/FOTA_R400NXXU0AXC1.bin) | 2024 | March | 1 |
-| [`R400NXXU0AXB1`](https://github.com/timschneeb/galaxy-buds-firmware-archive/raw/main/R400N/FOTA_R400NXXU0AXB1.bin) | 2024 | February | 1 |
-| [`R400NXXU0AXA3`](https://github.com/timschneeb/galaxy-buds-firmware-archive/raw/main/R400N/FOTA_R400NXXU0AXA3.bin) | 2024 | January | 3 |
-
 ## Galaxy Buds2 (SM-R177)
 
 | Build | Year | Month | Revision |
@@ -117,6 +107,16 @@ An automated archive of firmware images for the Galaxy Buds family. Flashable wi
 | [`R177XXU0AUI5`](https://github.com/timschneeb/galaxy-buds-firmware-archive/raw/main/R177/FOTA_R177XXU0AUI5.bin) | 2021 | September | 5 |
 | [`R177XXU0AUI2`](https://github.com/timschneeb/galaxy-buds-firmware-archive/raw/main/R177/FOTA_R177XXU0AUI2.bin) | 2021 | September | 2 |
 | [`R177XXU0AUH2`](https://github.com/timschneeb/galaxy-buds-firmware-archive/raw/main/R177/FOTA_R177XXU0AUH2.bin) | 2021 | August | 2 |
+
+## Galaxy Buds FE (SM-R400N)
+
+| Build | Year | Month | Revision |
+| ----- | ---- | ----- | -------- |
+| [`R400NXXU0AYF1`](https://github.com/timschneeb/galaxy-buds-firmware-archive/raw/main/R400N/FOTA_R400NXXU0AYF1.bin) | 2025 | June | 1 |
+| [`R400NXXU0AYA1`](https://github.com/timschneeb/galaxy-buds-firmware-archive/raw/main/R400N/FOTA_R400NXXU0AYA1.bin) | 2025 | January | 1 |
+| [`R400NXXU0AXC1`](https://github.com/timschneeb/galaxy-buds-firmware-archive/raw/main/R400N/FOTA_R400NXXU0AXC1.bin) | 2024 | March | 1 |
+| [`R400NXXU0AXB1`](https://github.com/timschneeb/galaxy-buds-firmware-archive/raw/main/R400N/FOTA_R400NXXU0AXB1.bin) | 2024 | February | 1 |
+| [`R400NXXU0AXA3`](https://github.com/timschneeb/galaxy-buds-firmware-archive/raw/main/R400N/FOTA_R400NXXU0AXA3.bin) | 2024 | January | 3 |
 
 ## Galaxy Buds Live (SM-R180)
 
