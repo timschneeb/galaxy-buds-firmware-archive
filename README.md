@@ -14,6 +14,7 @@ An automated archive of firmware images for the Galaxy Buds family. Flashable wi
 - [SM-R640](#galaxy-buds4-pro-sm-r640)
 - [SM-R510](#galaxy-buds2-pro-sm-r510)
 - [SM-R420](#galaxy-buds3-fe-sm-r420)
+- [SM-R410](#galaxy-buds-core-sm-r410)
 - [SM-R400N](#galaxy-buds-fe-sm-r400n)
 - [SM-R177](#galaxy-buds2-sm-r177)
 - [SM-R180](#galaxy-buds-live-sm-r180)
@@ -82,6 +83,12 @@ An automated archive of firmware images for the Galaxy Buds family. Flashable wi
 | Build | Year | Month | Revision |
 | ----- | ---- | ----- | -------- |
 | [`R420XXU0AZC1`](https://github.com/timschneeb/galaxy-buds-firmware-archive/raw/main/R420/FOTA_R420XXU0AZC1.bin) | 2026 | March | 1 |
+
+## Galaxy Buds Core (SM-R410)
+
+| Build | Year | Month | Revision |
+| ----- | ---- | ----- | -------- |
+| [`R410XXU0AYI2`](https://github.com/timschneeb/galaxy-buds-firmware-archive/raw/main/R410/FOTA_R410XXU0AYI2.bin) | 2025 | September | 2 |
 
 ## Galaxy Buds FE (SM-R400N)
 
